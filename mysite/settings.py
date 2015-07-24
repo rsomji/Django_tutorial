@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UK'
+TIME_ZONE = 'GB'
 
 USE_I18N = True
 
